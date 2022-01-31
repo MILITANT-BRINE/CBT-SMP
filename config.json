@@ -1,0 +1,9 @@
+{
+	"ip":"CBT_SMP.aternos.me",
+	"port":15768,
+	"name": "CBT-SMP",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (mukulk.) (mukulk.)",
+	"login-cmd":"/login (mukulk.)"
+}
